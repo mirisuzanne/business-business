@@ -18,7 +18,7 @@ html {
   --bg-accent: var(--accent-dark);
   --bg-alt: var(--alt-dark);
   --link: var(--accent-light);
-  --focus: var(--alt-light);
+  --highlight: var(--alt-light);
 
   background-color: var(--bg);
   background-image:
@@ -50,7 +50,7 @@ html {
     --bg-accent: var(--accent-light);
     --bg-alt: var(--alt-light);
     --link: var(--accent-dark);
-    --focus: var(--alt-dark);
+    --highlight: var(--alt-dark);
   }
 }
 
@@ -71,7 +71,7 @@ a:visited {
 a:focus,
 a:hover,
 a:active {
-  text-decoration-color: var(--focus);
+  text-decoration-color: var(--highlight);
 }
 
 header {
@@ -79,5 +79,18 @@ header {
 
   > * {
     margin-block: 0;
+  }
+}
+
+main :is(p, li) {
+  &::before,
+  &::after {
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    content: " $$$ ";
+    color: var(--highlight);
+    font-weight: bold;
+    background: radial-gradient(at bottom left, var(--link), var(--highlight));
+    background-clip: text;
   }
 }

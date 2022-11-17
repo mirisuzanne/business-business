@@ -16,11 +16,7 @@ I do business daily (if not more).
 
 This is my business site,
 for marketing the business that I do.
-There's nothing to buy here,
-but please buy things anyway.
 That's how you run a business.
-
-$$$$
 
 I have other businesses too.
 That's what business people do:
