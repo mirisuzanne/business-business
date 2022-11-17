@@ -1,9 +1,9 @@
 ---
 layout: base
-title: Miriam Suzanne
+title: Business-Business (dot Business)
 sub: |
-  Principle Business Owner & Founder
-  @ Business-Business.Business
+  <a href="https://front-end.social/@mia" rel="me">Miriam Suzanne</a> |
+  Principle Business Owner & Founder (Important)
 ---
 
 As a business person,
