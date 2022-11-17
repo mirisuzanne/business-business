@@ -1,3 +1,5 @@
+@use 'sass:color';
+
 * {
   box-sizing: border-box;
 }
@@ -11,6 +13,7 @@ html {
   --alt-dark: teal;
 
   --bg: var(--dark);
+  --bg-overlay: #{color.change(#111, $alpha: 0.8)};
   --text: var(--light);
   --bg-accent: var(--accent-dark);
   --bg-alt: var(--alt-dark);
@@ -19,7 +22,7 @@ html {
 
   background-color: var(--bg);
   background-image:
-    linear-gradient(#111c, #111c),
+    linear-gradient(var(--bg-overlay), var(--bg-overlay)),
     radial-gradient(
       farthest-corner at 20% 10%,
       var(--bg-accent),
@@ -42,6 +45,7 @@ html {
 
   @media (prefers-color-scheme: light) {
     --bg: var(--light);
+    --bg-overlay: #{color.change(snow, $alpha: 0.8)};
     --text: var(--dark);
     --bg-accent: var(--accent-light);
     --bg-alt: var(--alt-light);
