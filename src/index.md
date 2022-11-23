@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Bu$ine$$-Bu$ine$$ Dot Bu$ine$$
-banner: Bu$ine$$-Bu$ine$$ <em>Dot Bu$ine$$</em>
+title: Bu$ine$$-Bu$ine$$ Dot Bu$ine$$ (online!)
+banner: Bu$ine$$-Bu$ine$$ <em>Dot Bu$ine$$</em> (online!)
 sub: |
   Doing business
   like a business
