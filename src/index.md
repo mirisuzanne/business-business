@@ -1,12 +1,11 @@
 ---
 layout: base
-title: Business-Business Dot Business
-banner: Business-Business <em>Dot Business</em>
+title: Bu$ine$$-Bu$ine$$ Dot Bu$ine$$
+banner: Bu$ine$$-Bu$ine$$ <em>Dot Bu$ine$$</em>
 sub: |
-  Doing
-  <em>"all business is good business"</em>
+  Doing business
   like a business
-  <strong>since 1982</strong>
+  <em>$ince 1982</em>
 ---
 
 Some people like _"personal websites"_,

@@ -37,7 +37,18 @@ header p {
 
 h2 {
   border-block-end: medium outset;
+  color: maroon;
   text-shadow: 1px 1px 0 var(--light), 0.5em 0.5em 0.5em var(--dark);
+}
+
+li::before,
+li::after {
+  content: '$$$ ';
+  color: red;
+}
+
+li::after {
+  content: ' $$$';
 }
 
 footer {
