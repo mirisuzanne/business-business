@@ -1,28 +1,34 @@
 ---
 layout: base
-title: Business-Business (dot Business)
+title: Business-Business Dot Business
+banner: Business-Business <em>Dot Business</em>
 sub: |
-  <a href="https://front-end.social/@mia" rel="me">Miriam Suzanne</a> |
-  Principle Business Owner & Founder (Important)
+  Doing
+  <em>"all business is good business"</em>
+  like a business
+  <strong>since 1982</strong>
 ---
 
-As a business person,
-I excel at business.
-My primary business
-is doing important business,
-providing business services to other business people,
-and the businesses they found (or lost).
-I do business daily (if not more).
+Some people like _"personal websites"_,
+but that's a terrible way to do business.
+Any **important business person** understands
+that an _impersonal website_ is better
+for success when it comes to
+**money gain profit business**.
 
-This is my business site,
-for marketing the business that I do.
-That's how you run a business.
+Ownership. Economy. Ayn Rand.
+Rand Paul. Paul Rand.
+IBM. Computers. Money.
 
-I have other businesses too.
-That's what business people do:
+## Trickle-Down to Business
 
-- I'm in the [OddBird](https://www.oddbird.net) web business
-- I have a [Grapefruit Lab](https://grapefruitlab.com) theater business
-- I do some [Teacup Gorilla](https://teacup-gorilla.com) music business
-- My [other website](https://miriamsuzanne.com) is not a business
-  (but it's trying)
+This is a business site,
+and _business is good_:
+
+- The [OddBird](https://www.oddbird.net) web business
+- A [Grapefruit Lab](https://grapefruitlab.com) theater business
+- Some [Teacup Gorilla](https://teacup-gorilla.com) music business
+- [Miriam Suzanne](https://miriamsuzanne.com) is a business ~~woman~~
+- Networking for [Front-End "Social"](https://front-end.social) business
+- Eventually [Monkeys Typing](https://monkey.writr.art/) also business
+- ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business

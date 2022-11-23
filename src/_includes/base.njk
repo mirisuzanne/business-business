@@ -8,15 +8,20 @@
 </head>
 <body>
 	<header>
-		<h1>{{ title }}</h1>
+		<h1>{{ banner | safe }}</h1>
 		<p>{{ sub | safe }}</p>
 	</header>
 	<main>
 	{{ content | safe }}
 	</main>
 	<footer>
-		&copy; 2022
-		<a href="https://business-business.business/">Business-Business (dot Business)</a>
+		<p>
+			Copy<strong>RIGHT</strong> &copy; 2022
+			<a href="https://front-end.social/@mia" rel="me">Miriam Suzanne</a>
+			<em>Principle Business Owner & Founder</em>
+			<br />
+			(<em>this business card is also a website</em>)
+		</p>
 	</footer>
 </body>
 </html>

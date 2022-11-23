@@ -5,92 +5,41 @@
 }
 
 html {
-  --dark: #111;
-  --light: snow;
-  --accent-light: hotpink;
-  --alt-light: cyan;
-  --accent-dark: mediumvioletred;
-  --alt-dark: teal;
-
-  --bg: var(--dark);
-  --bg-overlay: #{color.change(#111, $alpha: 0.8)};
-  --text: var(--light);
-  --bg-accent: var(--accent-dark);
-  --bg-alt: var(--alt-dark);
-  --link: var(--accent-light);
-  --highlight: var(--alt-light);
-
-  background-color: var(--bg);
-  background-image:
-    linear-gradient(var(--bg-overlay), var(--bg-overlay)),
-    radial-gradient(
-      farthest-corner at 20% 10%,
-      var(--bg-accent),
-      transparent,
-      var(--bg-alt)
-    ),
-    radial-gradient(
-      farthest-corner at 80% 60%,
-      var(--bg-alt),
-      transparent,
-      var(--bg-accent)
-    )
-  ;
-  color: var(--text);
-  color-scheme: dark light;
-  font-family: sans-serif;
-  font-size: min(1em + 0.25vw, 1.5em);
+  --dark: #222;
+  --light: #ccc;
+  background-color: var(--light);
+  color: var(--dark);
   height: 100%;
-  line-height: 1.4;
-
-  @media (prefers-color-scheme: light) {
-    --bg: var(--light);
-    --bg-overlay: #{color.change(snow, $alpha: 0.8)};
-    --text: var(--dark);
-    --bg-accent: var(--accent-light);
-    --bg-alt: var(--alt-light);
-    --link: var(--accent-dark);
-    --highlight: var(--alt-dark);
-  }
+  font-size: min(1em + 0.5vw, 1.25em);
+  display: grid;
+  place-content: center;
 }
 
 body {
-  display: grid;
-  grid-template-columns: minmax(min-content, 60ch);
-  min-height: 100%;
+  max-width: 800px;
+  border: thick outset dimgray;
+  box-shadow: 1em 1em 1em orange;
   padding: 1em;
-  place-content: center;
-  margin: 0;
-}
-
-a:link,
-a:visited {
-  color: var(--link);
-}
-
-a:focus,
-a:hover,
-a:active {
-  text-decoration-color: var(--highlight);
 }
 
 header {
-  margin-block: 1em;
-
-  > * {
-    margin-block: 0;
-  }
+  background: navy;
+  color: white;
 }
 
-main :is(p, li) {
-  &::before,
-  &::after {
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
-    content: " $$$ ";
-    color: var(--highlight);
-    font-weight: bold;
-    background: radial-gradient(at bottom left, var(--link), var(--highlight));
-    background-clip: text;
-  }
+header > * {
+  margin: 0;
+}
+
+header p {
+  text-decoration: underline;
+}
+
+h2 {
+  border-block-end: medium outset;
+  text-shadow: 1px 1px 0 var(--light), 0.5em 0.5em 0.5em var(--dark);
+}
+
+footer {
+  border-block-start: medium outset;
 }
