@@ -33,9 +33,11 @@ and _business is good_:
 - Eternal [Monkeys Typing](https://monkey.writr.art/) might do a business
 - Corporate _Office Max_ is across the street business
 - ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business
-- Probably _At Least One More_ business (in the world)
+- Probably [At Least One More](https://business.business-business.business/)
+  business (in the world)
 
 That's the extent of known business at this time.
-Wow, so much money cash profit.
+Wow, so much money cash profit Maximum ROI. KPI. TSA Pat-Down.
+They don't say _alarm_ any more, they say _anomaly_.
 Business corporation wage theft investors profit billionaire.
 _And so can you_!
