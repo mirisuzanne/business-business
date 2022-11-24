@@ -31,9 +31,9 @@ and _business is good_:
 - Outside this window, a _24-hour Car Wash_ business
 - Networking at the [Front-End "Social"](https://front-end.social) business
 - Eternal [Monkeys Typing](https://monkey.writr.art/) might do a business
-- Corporate _Office Max_ is across the street business
+- Corporate _Office Max_ is across the business street
 - ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business
-- New [Capitalism is Going Great](https://capitalismisgoinggreat.com/) business
+- **!!New!!** [Capitalism is Going Great](https://capitalismisgoinggreat.com/) business
 - Probably [At Least One More](https://business.business-business.business/)
   business (in the world)
 
