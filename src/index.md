@@ -33,6 +33,7 @@ and _business is good_:
 - Eternal [Monkeys Typing](https://monkey.writr.art/) might do a business
 - Corporate _Office Max_ is across the street business
 - ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business
+- New [Capitalism is Going Great](https://capitalismisgoinggreat.com/) business
 - Probably [At Least One More](https://business.business-business.business/)
   business (in the world)
 
