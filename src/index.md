@@ -26,7 +26,7 @@ and _business is good_:
 
 - The [OddBird](https://www.oddbird.net) web business
 - A [Grapefruit Lab](https://grapefruitlab.com) theater business
-- Some [Teacup Gorilla](https://teacup-gorilla.com) music business
+- Some [Teacup Gorilla](https://teacupgorilla.com) music business
 - [Miriam Suzanne](https://miriamsuzanne.com) is a business ~~woman~~
 - Outside this window, a _24-hour Car Wash_ business
 - Networking at the [Front-End "Social"](https://front-end.social) business
