@@ -7,23 +7,25 @@
 	<link rel="stylesheet" href="{{ '/css/style.css' | url }}" />
 </head>
 <body>
-	<header>
-		<h1 aria-label="business-business dot business online!">
-			Bu$ine$$-Bu$ine$$ <em>Dot Bu$ine$$</em> (online!)
-		</h1>
-		<p>{{ sub | safe }}</p>
-	</header>
-	<main>
-	{{ content | safe }}
-	</main>
-	<footer>
-		<p>
-			Copy<strong>RIGHT</strong> &copy; 2022
-			<a href="https://front-end.social/@mia" rel="me">Miriam $uzanne</a>
-			<em>Principle Bu$ine$$ Owner & Founder</em>
-			<br />
-			<em>"all bu$ine$$ i$ good bu$ine$$"</em>
-		</p>
-	</footer>
+	<div class="box">
+		<header>
+			<h1 aria-label="business-business dot business online!">
+				Bu$ine$$-Bu$ine$$ <em>Dot Bu$ine$$</em> (online!)
+			</h1>
+			<p>{{ sub | safe }}</p>
+		</header>
+		<main>
+		{{ content | safe }}
+		</main>
+		<footer>
+			<p>
+				Copy<strong>RIGHT</strong> &copy; 2022
+				<a href="https://front-end.social/@mia" rel="me">Miriam $uzanne</a>
+				<em>Principle Bu$ine$$ Owner & Founder</em>
+				<br />
+				<em>"all bu$ine$$ i$ good bu$ine$$"</em>
+			</p>
+		</footer>
+	</div>
 </body>
 </html>

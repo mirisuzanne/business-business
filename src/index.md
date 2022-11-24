@@ -28,6 +28,14 @@ and _business is good_:
 - A [Grapefruit Lab](https://grapefruitlab.com) theater business
 - Some [Teacup Gorilla](https://teacup-gorilla.com) music business
 - [Miriam Suzanne](https://miriamsuzanne.com) is a business ~~woman~~
-- Networking for [Front-End "Social"](https://front-end.social) business
-- Eventually [Monkeys Typing](https://monkey.writr.art/) also business
+- Outside this window, a _24-hour Car Wash_ business
+- Networking at the [Front-End "Social"](https://front-end.social) business
+- Eternal [Monkeys Typing](https://monkey.writr.art/) might do a business
+- Corporate _Office Max_ is across the street business
 - ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business
+- Probably _At Least One More_ business (in the world)
+
+That's the extent of known business at this time.
+Wow, so much money cash profit.
+Business corporation wage theft investors profit billionaire.
+_And so can you_!

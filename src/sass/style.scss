@@ -7,7 +7,15 @@
 html {
   --dark: #222;
   --light: #ccc;
+  --stripe: #bbb;
   background-color: var(--light);
+  background-image: repeating-linear-gradient(
+    -55deg,
+    var(--light),
+    var(--light) 4px,
+    var(--stripe) 4px,
+    var(--stripe) 6px
+  );
   color: var(--dark);
   height: 100%;
   font-size: min(1em + 0.5vw, 1.25em);
@@ -16,10 +24,29 @@ html {
 }
 
 body {
-  max-width: 800px;
+  min-height: 100%;
+}
+
+.box {
+  background-color: var(--light);
   border: thick outset dimgray;
   box-shadow: 1em 1em 1em orange;
+  max-width: 85ch;
   padding: 1em;
+  position: relative;
+
+  &::before {
+    content: '';
+    border-radius: 66% 34% 37% 63% / 57% 31% 69% 43%;
+    background: mediumvioletred;
+    position: absolute;
+    inset-block-start: 0;
+    inset-inline-start: 0;
+    height: 20vh;
+    width: 30vw;
+    transform: translate(-10vw, -5vh);
+    z-index: -1;
+  }
 }
 
 header {
