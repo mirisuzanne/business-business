@@ -33,9 +33,12 @@ and _business is good_:
 - Eternal [Monkeys Typing](https://monkey.writr.art/) might do a business
 - Corporate _Office Max_ is across the business street
 - ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business
-- **!!New!!** [Capitalism is Going Great](https://capitalismisgoinggreat.com/) business
+- Because [Capitalism is Going Great](https://capitalismisgoinggreat.com/) business
 - Probably [At Least One More](https://business.business-business.business/)
   business (in the world)
+- AND a $$$**NEW**$$$
+  [exciting franchise opportunity](https://www.southbroadway.art/excitingfranchiseopportunity/)
+  business, just for you! Take it $$$Global$$$!
 
 That's the extent of known business at this time.
 Wow, so much money cash profit Maximum ROI. KPI. TSA Pat-Down.
