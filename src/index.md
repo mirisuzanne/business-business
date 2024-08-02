@@ -25,19 +25,21 @@ This is a business site,
 and _business is good_:
 
 - The [OddBird](https://www.oddbird.net) web business
-- A [Grapefruit Lab](https://grapefruitlab.com) theater business
-- Some [Teacup Gorilla](https://teacupgorilla.com) music business
+- A [Grapefruit Lab](https://grapefruitlab.com) performance business
+- Some [Teacup Gorilla](https://teacupgorilla.com) makes music business
 - [Miriam Suzanne](https://miriamsuzanne.com) is a business ~~woman~~
-- Outside this window, a _24-hour Car Wash_ business
+- Outside, a _24-hour Car Wash_ business
 - Networking at the [Front-End "Social"](https://front-end.social) business
 - Eternal [Monkeys Typing](https://monkey.writr.art/) might do a business
-- Corporate _Office Max_ is across the business street
+- [Business [men](https://men.mia.wtf) do all sorts of business in brackets]
+- Tell the [NSA your business](https://nsa4.us/) (to help the spy business)
+- (They call their business cryptography, but they mean spying)
 - ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business
+- Mourn the [post-obsolete book](https://webart.mia.wtf/project/post-obsolete/) business
+- [Franchise this business-business](https://github.com/mirisuzanne/business-business)!
+  Take it $$$Global$$$!
 - Probably [At Least One More](https://business.business-business.business/)
   business (in the world)
-- AND a $$$**NEW**$$$
-  [exciting franchise opportunity](https://www.southbroadway.art/excitingfranchiseopportunity/)
-  business, just for you! Take it $$$Global$$$!
 
 That's the extent of known business at this time.
 Wow, so much money cash profit Maximum ROI. KPI. TSA Pat-Down.
