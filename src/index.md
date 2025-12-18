@@ -28,12 +28,13 @@ and _business is good_:
 - A [Grapefruit Lab](https://grapefruitlab.com) performance business
 - Some [Teacup Gorilla](https://teacupgorilla.com) makes music business
 - [Miriam Suzanne](https://miriamsuzanne.com) is a business ~~woman~~
-- Outside, a _24-hour Car Wash_ business
+- Buy some [pottery business](https://art.miriamsuzanne.com)!
+- (Across the street, there's a _24-hour Car Wash_ business)
 - Networking at the [Front-End "Social"](https://front-end.social) business
 - Eternal [Monkeys Typing](https://monkey.writr.art/) might do a business
 - [Business [men](https://men.mia.wtf) do all sorts of business in brackets]
 - Tell the [NSA your business](https://nsa4.us/) (to help the spy business)
-- (They call their business cryptography, but they mean spying)
+- (They call is a cryptography business, but they mean surveillance)
 - ~~Best~~-Seller [Riding SideSaddle](https://ridingsidesaddle.com) book business
 - Mourn the [post-obsolete book](https://webart.mia.wtf/project/post-obsolete/) business
 - [Franchise this business-business](https://github.com/mirisuzanne/business-business)!
